@@ -155,15 +155,18 @@ backend:
 
   - task: "Meeting Management - Delete Meeting"
     implemented: true
-    working: false
+    working: true
     file: "/app/backend/server.py"
-    stuck_count: 1
+    stuck_count: 0
     priority: "high"
-    needs_retesting: true
+    needs_retesting: false
     status_history:
       - working: false
         agent: "testing"
         comment: "Failed to test DELETE /api/meetings/{id} endpoint. Received 404 Not Found error when trying to delete a meeting that was just created and verified to exist. This suggests an issue with the delete operation in the backend."
+      - working: true
+        agent: "testing"
+        comment: "Successfully tested DELETE /api/meetings/{id} endpoint. The issue was fixed by explicitly preserving the meeting ID when updating the meeting. The API now correctly deletes meetings."
 
   - task: "AI Integration - Meeting Summary"
     implemented: true
