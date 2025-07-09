@@ -240,20 +240,10 @@ def test_ai_integration():
         """
         
         try:
-            # Try with transcript in the request body
+            # Use query parameters for both meeting_id and transcript
             response = requests.post(
-                f"{BACKEND_URL}/api/ai/summarize", 
-                params={"meeting_id": ai_test_meeting_id},
-                data={"transcript": transcript}
+                f"{BACKEND_URL}/api/ai/summarize?meeting_id={ai_test_meeting_id}&transcript={transcript}"
             )
-            
-            if response.status_code == 422:
-                # If that fails, try with transcript as a JSON field
-                print("First attempt failed, trying with JSON payload...")
-                response = requests.post(
-                    f"{BACKEND_URL}/api/ai/summarize",
-                    json={"meeting_id": ai_test_meeting_id, "transcript": transcript}
-                )
             
             response.raise_for_status()
             summary = response.json()
@@ -265,8 +255,8 @@ def test_ai_integration():
                 print(f"❌ Failed to generate meeting summary: {summary}")
         except Exception as e:
             print(f"❌ Error generating meeting summary: {e}")
-            print(f"Response status code: {response.status_code}")
-            print(f"Response text: {response.text}")
+            print(f"Response status code: {getattr(response, 'status_code', 'N/A')}")
+            print(f"Response text: {getattr(response, 'text', 'N/A')}")
     
     # Test getting a joke
     print("\n📝 Testing GET /api/ai/joke")
