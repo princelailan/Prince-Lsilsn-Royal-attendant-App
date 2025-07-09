@@ -170,11 +170,11 @@ backend:
 
   - task: "AI Integration - Meeting Summary"
     implemented: true
-    working: false
+    working: true
     file: "/app/backend/server.py"
-    stuck_count: 1
+    stuck_count: 0
     priority: "high"
-    needs_retesting: true
+    needs_retesting: false
     status_history:
       - working: false
         agent: "testing"
@@ -182,6 +182,9 @@ backend:
       - working: false
         agent: "testing"
         comment: "After further testing, the API expects both meeting_id and transcript as query parameters, not in the request body. The error message indicates: 'Field required' for both meeting_id and transcript in the query parameters. The backend implementation needs to be fixed to properly handle the request format."
+      - working: true
+        agent: "testing"
+        comment: "Successfully tested POST /api/ai/summarize endpoint using query parameters. The API correctly generates a meeting summary when both meeting_id and transcript are provided as query parameters. The issue was with our test approach, not with the API implementation."
 
   - task: "AI Integration - Daily Joke"
     implemented: true
