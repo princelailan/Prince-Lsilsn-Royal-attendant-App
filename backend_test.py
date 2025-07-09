@@ -138,30 +138,38 @@ def test_meeting_management():
     # Test updating a meeting
     if test_meeting_id:
         print(f"\n📝 Testing PUT /api/meetings/{test_meeting_id}")
-        update_data = {
-            "title": "Updated Royal Strategy Session",
-            "date": (datetime.now() + timedelta(days=2)).strftime("%Y-%m-%d"),
-            "time": "15:30",
-            "timezone": "UTC",
-            "platform": "Zoom",
-            "meeting_link": "https://zoom.us/j/123456789",
-            "meeting_id": "123456789",
-            "passcode": "royal123",
-            "host_name": "Prince Lailan",
-            "agenda": "Updated agenda with magical focus",
-            "duration": 90,
-            "rsvp_status": "confirmed",
-            "mic_muted": True,
-            "camera_off": False,
-            "recurrence": "weekly",
-            "reminder_times": [5, 15, 30],
-            "backup_link": "https://teams.microsoft.com/l/meetup-join/123",
-            "join_method": "browser",
-            "waiting_room_message": "Welcome to the royal meeting! The prince will admit you shortly.",
-            "attachments": ["kingdom_map.pdf", "magical_innovations.pptx"]
-        }
         
+        # First get the current meeting to preserve its ID
         try:
+            response = requests.get(f"{BACKEND_URL}/api/meetings/{test_meeting_id}")
+            response.raise_for_status()
+            current_meeting = response.json()
+            
+            # Prepare update data while preserving the ID
+            update_data = {
+                "id": test_meeting_id,  # Explicitly include the ID
+                "title": "Updated Royal Strategy Session",
+                "date": (datetime.now() + timedelta(days=2)).strftime("%Y-%m-%d"),
+                "time": "15:30",
+                "timezone": "UTC",
+                "platform": "Zoom",
+                "meeting_link": "https://zoom.us/j/123456789",
+                "meeting_id": "123456789",
+                "passcode": "royal123",
+                "host_name": "Prince Lailan",
+                "agenda": "Updated agenda with magical focus",
+                "duration": 90,
+                "rsvp_status": "confirmed",
+                "mic_muted": True,
+                "camera_off": False,
+                "recurrence": "weekly",
+                "reminder_times": [5, 15, 30],
+                "backup_link": "https://teams.microsoft.com/l/meetup-join/123",
+                "join_method": "browser",
+                "waiting_room_message": "Welcome to the royal meeting! The prince will admit you shortly.",
+                "attachments": ["kingdom_map.pdf", "magical_innovations.pptx"]
+            }
+            
             response = requests.put(f"{BACKEND_URL}/api/meetings/{test_meeting_id}", json=update_data)
             response.raise_for_status()
             result = response.json()
@@ -232,7 +240,21 @@ def test_ai_integration():
         """
         
         try:
-            response = requests.post(f"{BACKEND_URL}/api/ai/summarize", params={"meeting_id": ai_test_meeting_id}, json={"transcript": transcript})
+            # Try with transcript in the request body
+            response = requests.post(
+                f"{BACKEND_URL}/api/ai/summarize", 
+                params={"meeting_id": ai_test_meeting_id},
+                data={"transcript": transcript}
+            )
+            
+            if response.status_code == 422:
+                # If that fails, try with transcript as a JSON field
+                print("First attempt failed, trying with JSON payload...")
+                response = requests.post(
+                    f"{BACKEND_URL}/api/ai/summarize",
+                    json={"meeting_id": ai_test_meeting_id, "transcript": transcript}
+                )
+            
             response.raise_for_status()
             summary = response.json()
             
@@ -243,6 +265,8 @@ def test_ai_integration():
                 print(f"❌ Failed to generate meeting summary: {summary}")
         except Exception as e:
             print(f"❌ Error generating meeting summary: {e}")
+            print(f"Response status code: {response.status_code}")
+            print(f"Response text: {response.text}")
     
     # Test getting a joke
     print("\n📝 Testing GET /api/ai/joke")
