@@ -179,6 +179,9 @@ backend:
       - working: false
         agent: "testing"
         comment: "Failed to test POST /api/ai/summarize endpoint. Received 422 Unprocessable Entity error. The API expects a different request format than what was provided. The current implementation expects the transcript in the request body, but the API might be expecting it as a parameter or in a different format."
+      - working: false
+        agent: "testing"
+        comment: "After further testing, the API expects both meeting_id and transcript as query parameters, not in the request body. The error message indicates: 'Field required' for both meeting_id and transcript in the query parameters. The backend implementation needs to be fixed to properly handle the request format."
 
   - task: "AI Integration - Daily Joke"
     implemented: true
