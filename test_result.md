@@ -300,10 +300,8 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Meeting Management - Delete Meeting"
     - "AI Integration - Meeting Summary"
   stuck_tasks:
-    - "Meeting Management - Delete Meeting"
     - "AI Integration - Meeting Summary"
   test_all: false
   test_priority: "high_first"
