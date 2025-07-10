@@ -45,9 +45,7 @@ npm start
 The app will open on http://localhost:3000
 
 📦 Production Build
-bash
-Copy
-Edit
+
 npm run build
 Outputs to build/ — deployed via Netlify.
 
@@ -82,6 +80,3 @@ DM @princelailan or send love via email: jesuspromisesmedia@gmail.com
 
 🦄 “Because royalty shouldn’t have to click ‘Join’ manually.”
 
-yaml
-Copy
-Edit
