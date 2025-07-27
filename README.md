@@ -1,97 +1,108 @@
-<!-- README.md - Prince Lailan & Daltone Tonny's Royal Attendant -->
+# 👑 Prince Lailan & Daltone Tonny's Royal Attendant App 💅
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Prince+Lailan+%26+Daltone+Tonny's+Royal+Attendant;A+Girly+Auto+Meeting+Assistant+App+Built+with+MERN;Where+Style,+Tech+%26+Fun+Collide"/>
-</h1>
+> *"Slay your meetings like royalty. Let the bot do the boring part while you sip your chai or charge your crystals."*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="100" />
-</p>
-
-<p align="center">
-  <b>💅 A Kingdom-Level .EXE bot that auto-joins Zoom/Google Meet, with sass, screenshots, and secret sparkles!</b>
-</p>
+![Royal Attendant](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3ZTVyNHg5cXRrNXYzZHNoc2htajZncWc1c21sazhsODZycmtqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MABF5Sx0QdfwA/giphy.gif)
 
 ---
 
-## 👑 What Is This?
+## 🌐 [🔗 Live Preview](https://princelailan.github.io/Prince-Lsilsn-Royal-attendant-App/)
 
-> This isn’t your average project. This is **The Royal Attendant**, crafted by <strong>Prince Lailan</strong> and <strong>Daltone Tonny</strong> — a Gen Z dev duo mixing AI automation with pure chaotic elegance.
+## 📽️ [🎥 Pitch Video Placeholder](https://youtu.be/your_pitch_link_here)
 
-It’s giving:
-
-* 🧠 Smart Zoom/Meet Link Detection
-* 🎥 Cam/Mic Mute on Join (we know you're still in PJs 😴)
-* 📸 Auto Screenshot Receipts (cuz proof is power)
-* 🪞 Aesthetic UI with animated UI magic (Easter bunnies included)
-* 🎀 Packed into a .EXE with girly glam AND kingdom-core vibes
+> ✅ **Fully working. Fully wild.** — React + Node.js + Puppeteer magic. Inspired by Zoom-fatigue and coded with sass.
 
 ---
 
-## ⚙️ Stack Behind the Magic
+## ✨ What It Does
 
-| Tech        | Why It's Here                         |
-| ----------- | ------------------------------------- |
-| **MongoDB** | To remember all your royal duties     |
-| **Express** | To keep things neat and flowing       |
-| **React**   | For UI so cute it could slay a dragon |
-| **Node.js** | The royal engine room                 |
+🚀 Automatically:
 
----
+* Opens Zoom/Google Meet links
+* Turns off cam + mic
+* Clicks the "Join" button like it owes you rent
+* Screenshots for receipts (👀 we got proof)
+* Detects if meetings are still active
+* Saves your time, your battery, and your dignity
 
-## 💖 Features Fit for Royalty
-
-🎯 **Auto Join** Meetings (Zoom/Meet)
-🔇 **Mic + Cam Killer Mode**
-🖼️ **Screenshot Logs** w/ UI gallery inside app
-🐰 **Bunny-themed, animated UI** with sparkles and motion
-⚙️ **Settings Panel** for full throne control
-📅 **Scheduled Joining** like a personal secretary
-💬 **Jokes, UI Barks & Easter Eggs** baked in
+> *"Because even your laptop deserves a break from that 8am lecture."*
 
 ---
 
-## ✨ Screenshots
+## 🎨 UI: It's Giving...
 
-<p align="center">
-  <img src="https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App/assets/123456789/your-ui-demo.gif" width="90%" />
-</p>
+🌸 **Girlish royalty + dev core**
+
+* Animated Easter bunnies 🐰
+* Shimmering attendance logs
+* Sassy popups
+* Modern .EXE build (Windows)
+
+> *"Looks like a fairy tale, works like a hacker."*
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Tech Stack (aka The Spell Book)
+
+* 📦 **Frontend:** React, TailwindCSS
+* ⚙️ **Backend:** Node.js + Express
+* 🤖 **Bot:** Puppeteer (launches browser, clicks stuff)
+* 💾 **Storage:** Local logs + screenshots
+
+---
+
+## 💡 Features (That Go Hard)
+
+* ✅ Smart UI detection for buttons
+* 🎯 Scheduling meetings like a boss
+* 👀 Auto mute cam & mic
+* 🪞 Meeting screenshot proof
+* 🌘 Optional themes: Dark mode, Fairy Mode, Hacker Vibes
+
+---
+
+## 🧠 Built With Love by:
+
+* 👑 Joseph Onyango aka **Prince Lailan**
+* 🛡️ Daltone Tonny aka **The Script Knight**
+
+---
+
+## 🛠️ How to Run (Locally or in the Dungeons)
 
 ```bash
-git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-cd Prince-Lsilsn-Royal-attendant-App
 npm install
 npm start
 ```
 
-Then build the EXE with `electron-builder` if you’re feeling regal 💻✨
+> *Or double-click the .EXE and slay.*
 
 ---
 
-## 🎤 Voices of the Kingdom
+## 🔥 Upcoming Features
 
-> "I never miss a meeting now. The Attendant handles it while I sip chai." — *Lailan*
-
-> "It even captured my sleepy face at 8am. Respect." — *Daltone*
-
----
-
-## 🛡️ Disclaimer
-
-This tool is for good vibes, not bad karma. Use ethically and don’t spam meetings like a troll. You’re royalty now.
+* 💬 AI-based transcription assistant
+* 📅 Calendar integration
+* 🧠 Smart join suggestions
+* 🐦 Auto tweet "I'm in a boring meeting, send memes."
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Made+with+✨+by+Prince+Lailan+%26+Daltone+Tonny"/>
-</p>
+## 🌟 Final Words
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100" />
-</p>
+> ✨ *"This isn’t just a project. It’s a **movement**. For every student, dev, or tired human who’s ever whispered: 'This meeting could’ve been an email.'"*
 
 ---
+
+## 📣 Collab With Us
+
+Got ideas? Want to vibe on the next build?
+DM Prince Lailan or Daltone. We’re on GitHub, LinkedIn, and probably hacking from a matatu right now.
+
+---
+
+### 🧵 Hashtags We’d Use If This Was TikTok:
+
+```
+#DevRoyalty #AutoJoinBot #ZoomSucks #KenyanHackers #GirlBossEnergy #MERNSlay #PrinceAndKnight
+```
