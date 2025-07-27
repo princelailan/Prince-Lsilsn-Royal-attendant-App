@@ -1,121 +1,88 @@
-# SupaBook - MERN Stack Project
+# 💃 Prince Lailan Royal Attendant 👑
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f9hnhCPwJ0WCc/giphy.gif" width="200" height="200">
+> *"Your loyal assistant, dressed in glitter, bunny ears, and attitude. Ready to SLAY your meetings!"*
 
-  <h1 style="font-size: 2.5em; font-weight: bold; text-shadow: 2px 2px #FF69B4;">📚 SupaBook 📚</h1>
-
-  <h2 style="color: #8A2BE2; font-family: 'Comic Sans MS'; animation: pulse 2s infinite;">
-    The Ultimate MERN Stack Journal ✨
-  </h2>
-
-  <div style="font-size: 1.2em; color: #FF1493;">
-    <marquee scrollamount="8" behavior="alternate">
-      👑 Joseph Onyango 👑 — Daltone Tonny 🦾 — Daisy Mbeke 💅 — Charity Kendi 🎨 — Maxwell Kipkemoi 🚀 — Prince Lailan 🐣 — Joan Omondi 🧠 — John Kiplangat 🧢 — Gloria Kendi 🌸 — Kevin Mwenda 🎯 — Milka Nyawira 🌻 — Abdi Hassan 🦄
-    </marquee>
-  </div>
-</div>
+![Glitter Banner](https://media.giphy.com/media/IeRdg7bX4Kau4/giphy.gif)
 
 ---
 
-## 💡 Features
+## 🧠 What Is This?
 
-* 📘 Add, edit, and delete books
-* 🔍 Search books by title or author
-* 🧾 Beautiful and minimal UI
-* 🔐 Auth secured (JWT based)
-* 🧠 Responsive and user-friendly
+The **Prince Lailan Royal Attendant** is a Gen Z-coded, sass-loaded, girlish AI-powered meeting assistant. Whether you're in Zoom, Google Meet, or just faking productivity, this baby gotchu:
 
----
+* 🎯 Auto-joins meetings
+* 🎥 Turns off cam + mic like a real introvert
+* 📸 Takes screenshots for receipts
+* 🧠 Smart UI detection (no dumb delays)
+* 🔔 Notifies you when meetings start
+* 🐰 Adorable Easter Bunny UI with rotating surprises
+* 🖼️ Girlish kingdom aesthetic (hello pink gradients + sparkles)
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack (aka the Sass Stack)
 
-* **MongoDB**
-* **Express.js**
-* **React.js**
-* **Node.js**
+| Layer      | Tool                                               |
+| ---------- | -------------------------------------------------- |
+| Frontend   | React (TailwindCSS, Framer Motion, girly fonts 💅) |
+| Backend    | Node.js + Express                                  |
+| DB         | MongoDB                                            |
+| Automation | Puppeteer / Playwright magic 🪄                    |
+| Desktop    | Electron (optional .exe fairy dust 🧚)             |
 
----
+## 💌 Features
 
-## 🌈 Screenshots
+* 💄 Customizable girly UI (themes: Cotton Candy, Royal Bunny, Queen Mode)
+* 🕒 Join meetings via link or schedule
+* 🎤 Auto mute/unmute toggle
+* 📷 Screenshot gallery
+* 🧚‍♀️ Fairy-style toast notifications
+* 🐣 Idle checker & snooze mode
 
-| Home Page                  | Add Book                 | Book List                  |
-| -------------------------- | ------------------------ | -------------------------- |
-| ![Home](./assets/home.png) | ![Add](./assets/add.png) | ![List](./assets/list.png) |
+## 👯‍♀️ Contributors (aka The Royal Court)
 
----
+* 👑 Joseph Onyango (aka Prince Lailan)
+* 🤴 Daltonne Tonny (Sir Code-a-Lot)
+* 💅 Queen GPT (ChatGPT, the backend baddie)
 
-## 🔧 Installation
+## 🚀 How to Run It (Like A Queen)
 
 ```bash
-# Clone the repo
-git clone https://github.com/your-username/supabook.git
-cd supabook
+# Clone the Kingdom
+$ git clone https://github.com/princelailan/royal-attendant.git
 
-# Install backend dependencies
-cd backend
-npm install
+# Royal Portal: Backend
+$ cd backend && npm install && npm run dev
 
-# Install frontend dependencies
-cd ../frontend
-npm install
+# Glam Up: Frontend
+$ cd ../frontend && npm install && npm run dev
 
-# Run the app
-npm run dev
+# Optional: Wrap it into .exe if you're extra
 ```
 
----
+## 🌈 Screenshots (it’s a vibe)
 
-## 📁 Folder Structure
+> *Insert sparkle-loaded, rainbow-kissed screenshots here...*
 
-```bash
-supabook/
-├── backend/
-│   └── models, routes, controllers, config
-├── frontend/
-│   └── components, pages, App.jsx
-└── README.md
-```
+![Dashboard](https://media.giphy.com/media/3o6ZsYqytU8nbiQXoU/giphy.gif)
 
----
+## 🤖 AI & Magic Sauce
 
-## 💖 Shoutouts
+* 🧠 GPT agents to detect meeting links & join logic
+* 🖱️ Button clickers that slay
+* 🔮 Smart calendar integration (coming soon)
 
-```
-Special thanks to:
-✨ Joseph Onyango ✨
-🤝 Daltone Tonny
-🎨 Daisy Mbeke
-👩‍🎨 Charity Kendi
-💥 Maxwell Kipkemoi
-👑 Prince Lailan
-🧠 Joan Omondi
-🧢 John Kiplangat
-🌸 Gloria Kendi
-🎯 Kevin Mwenda
-🌻 Milka Nyawira
-🦄 Abdi Hassan
-```
+## ✨ Extra ✨
+
+* 🐰 Built for Gen Z, by Gen Z
+* 🎓 Submitted for Power Learn Project (PLP) final MERN project
+* 💌 Inspired by real dev trauma & bunny dreams
 
 ---
 
-## ☕ Support
-
-> If you love this project:
-
-* Buy me a coffee: [BuyMeACoffee](https://buymeacoffee.com/princelailan)
-* Star this repo 🌟
+> *"Even your boss will be like, ‘who IS this productivity goddess?’* – Prince Lailan probably
 
 ---
 
-## 🛡️ License
+🧵 Want the full walkthrough with glitter & sass? Drop by [princelailan.com](https://princelailan.com) or DM me on Discord: **@bunnyattendant#6969**
 
-Licensed under the MIT License.
+![Bye Gurl](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
 
----
-
-<div align="center">
-  <h2 style="font-family: cursive; text-shadow: 1px 1px #FFD700;">
-    🏰 Powered by the Kingdom of Code™ ⚔️📜
-  </h2>
-</div>
