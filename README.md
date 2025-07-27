@@ -1,37 +1,59 @@
-# 👑 Prince Lailan & Daltone Tonny's Royal Attendant App
+# 👑 Prince Lailan's Royal Attendant App
 
-> An AI-powered, girly-coded, bunny-themed .exe masterpiece built with MERN Stack magic. Designed to auto-join meetings like a royal boss — camera off, mic muted, join clicked. With a sprinkle of Gen Z chaos.
+> *Built by* **Joseph Onyango** a.k.a **Prince Lailan** 🧚‍♀️ & **Daltonne Tonny** 👑
+> A magical, girlish, AI-powered .exe meeting bot built with love, sass, and MERN Stack tech!
 
-![Royal Attendant Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4OHFscmJ1bnpuYTF3bHJ1b3ZqdjdhcGN6YW9od3AxNWF1ZWp6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orieXe0C3Kq0CUXs4/giphy.gif)
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZkcGJ1YzY1azFjb3M4d3JqOWQ3a3p3a2ppb3h2eHZrcTN1OXV5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eJ4j2VnYOZU8qJU3Py/giphy.gif)
 
-## 💖 Features
+---
 
-* 🎀 Auto joins Zoom and Google Meet meetings with **camera off** and **mic muted**
-* 🐰 Royal GUI with girlish sparkle and Easter Bunny themes
-* 🧠 AI-powered detection of "Join" buttons & meeting states
-* 📸 Takes stealthy screenshots for proof
-* 🗓️ Scheduled meeting joins + reminders
-* 💤 Idle checker for user inactivity
-* 🎀 In-app screenshot gallery
-* ✨ Settings kingdom to customize UI, switch themes, and get royal with it
+## 🌟 What Is This?
 
-## 👑 Tech Stack
+Welcome to the **Royal Attendant App**, your magical assistant that:
 
-> Because royalty deserves the best
+🪄 Auto-joins Google Meet / Zoom meetings
+🎥 Turns off camera & mic before joining
+🖱️ Clicks the "Join" button automatically
+📸 Takes proof screenshots of attendance
+👑 Comes in a girlish, Kingdom-themed UI with glitter ✨
 
-* **Frontend**: React.js + Tailwind CSS
-* **Backend**: Node.js + Express.js
-* **Database**: MongoDB (Mongoose)
-* **Desktop App**: Electron
-* **AI/Automation**: Puppeteer + Custom Logic
+> Built using **MongoDB**, **Express.js**, **React**, **Node.js** with a sprinkle of fairy dust 💫
 
-## 💅 Screenshots
+---
 
-| 👸 Dashboard                                                       | 🐣 Scheduler                                                        | 💻 Proof Shots                                                      |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![img1](https://media.giphy.com/media/l3vRnFzUek4bht8AE/giphy.gif) | ![img2](https://media.giphy.com/media/3o7aD9vQv4nyXgdpDi/giphy.gif) | ![img3](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif) |
+## 🧰 Features
 
-## 🧁 Installation
+* 🎯 Auto-launch meetings with a custom schedule
+* 📸 Screenshots attendance and saves to gallery
+* 🔇 Disables mic + cam with one click
+* 🧠 Smart UI detection (Google Meet & Zoom)
+* 🧚‍♂️ Kingdom dashboard with animated Easter eggs
+* 💾 Save links and settings to local storage
+
+---
+
+## 💻 Tech Stack
+
+| Tech        | What it Does                            |
+| ----------- | --------------------------------------- |
+| 🟢 MongoDB  | Database for users & meeting data       |
+| 🚀 Express  | Backend routes & auth                   |
+| ⚛️ React    | UI with Kingdom vibes and custom themes |
+| 🖥️ Node.js | Server runtime                          |
+
+---
+
+## 🎨 Screenshots
+
+> *Add your own here!*
+
+| Auto Joiner                                                         | Dashboard                                                           |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![auto](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif) | ![dash](https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif) |
+
+---
+
+## 🔧 Installation & Run (Local Dev)
 
 ```bash
 git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
@@ -40,36 +62,33 @@ npm install
 npm run dev
 ```
 
-> To run as .exe:
-
-```bash
-npm run build
-```
-
-## ✨ Submit Worthy?
-
-**1000% YES.**
-If your instructor has taste, this is the *chef's kiss* of MERN final projects:
-
-* Cross-platform
-* Real-world use-case
-* Full-stack implementation
-* Smart automation
-* Custom UI and themeing
-
-## 🙌 Contributors
-
-* 🧚‍♂️ **Joseph Onyango (Prince Lailan)**
-* 🦸‍♂️ **Daltone Tonny**
-
-## 💸 Support Our Kingdom
-
-> Building royal apps costs coins, dear peasants 😌
-
-* [Buy Me a Coffee](https://buymeacoffee.com/princelailan)
-* [Ko-Fi](https://ko-fi.com/princelailan)
+> ⚠️ Make sure you’ve set up your `.env` with the right Supabase / MongoDB keys.
 
 ---
 
-> Built with glitter, caffeine, and sleepless nights.
-> Long live the dev kingdom. 👑
+## 🙌 Authors
+
+* 🧚‍♀️ [Prince Lailan (Joseph Onyango)](https://github.com/princelailan)
+* 🧙‍♂️ [Daltonne Tonny](https://github.com/Daltonne)
+
+Special thanks to all our magical testers 🐰 and royal critics 👑
+
+---
+
+## 💝 Support Us
+
+If you vibe with this, consider dropping a ⭐️ or sponsoring us!
+
+| Platform          | Link Placeholder  |
+| ----------------- | ----------------- |
+| ☕ Buy Me A Coffee | `@princelailan`   |
+| ❤️ Ko-Fi          | `@daltonne-tonny` |
+| 👼 GitHub Sponsor | `@princelailan`   |
+
+> *We build from phones. We deliver like queens. Crown us.*
+
+---
+
+## 📜 License
+
+MIT License — Feel free to fork, remix, or bunnylize 🐇✨
