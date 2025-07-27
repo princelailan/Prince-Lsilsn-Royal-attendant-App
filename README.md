@@ -4,7 +4,81 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Prince Lailan's Royal Attendant Animated README</title>
-<style>
+<style># 👑 Prince Lailan x Daltonne Tonny's Royal Attendant App 💅
+
+> A sassy, girlish, bunny-fied meeting attendant bot crafted by the dynamic duo — **Joseph Onyango** & **Daltonne Tonny** — for Gen Z devs who want their tools functional *and* fabulous.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btP5h5fZjxkM5U4/giphy.gif" width="220" alt="Bunny magic" />
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=✨+Auto+Join+%2B+Slay+✨+%7C+🧠+Smart+Cam-Off+%7C+📸+Screenshot+Mode+%7C+🐰+Bunny+Kingdom+UI" alt="Typing SVG" />
+</h2>
+
+---
+
+## 🌐 Live Preview
+
+👉 [Launch the Royal Attendant](https://prince-lailan-royal-attendant-app.netlify.app)
+
+> *"No more boring joins — just click and let it slay."*
+
+---
+
+## 🎯 What This Bot Slays At
+
+- ✅ Auto-joins Zoom + Google Meet from schedule or link  
+- 📴 Turns off cam + mic like a shy princess  
+- 🔘 Clicks the Join buttons for you (UI-based detection)  
+- 📷 Takes attendance screenshots (saved locally)  
+- 🧚‍♀️ Magical girly UI with animated Easter eggs  
+- 🕵️ Idle checker to catch ghosted meetings  
+- 🗓️ Schedule auto-attend like a queen  
+
+---
+
+## ⚙️ Setup Like Royalty
+
+```bash
+npm install
+npm run dev
+👯 Meet the Royal Duo
+Name	Role	Vibe
+Joseph Onyango	Lead Dev + UI Overlord	💅 Bunnyfier 👑
+Daltonne Tonny	AI Tamer & Logic Sorcerer	🔮 Feature King
+
+🎥 Pitch Deck
+Check out the live deck here:
+https://gamma.app/docs/Royal-Attendant-Bot--ftx9vzwgustviyr
+
+🛠 Tech Stack
+React + CRA (frontend magic)
+
+Tailwind CSS (for the drip)
+
+Node.js + Express (backend sass, WIP)
+
+Python (smart backend spells, WIP)
+
+Netlify (frontend hosting)
+
+Render / Railway (backend coming soon)
+
+💖 Feedback? Suggestions? More Sass?
+Slide into the Issues like it's hot.
+
+Built by passion. Ruled by glitter. Run by code.
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=200&color=F70B95&center=true&vCenter=true&multiline=true&width=800&lines=We+build+bots+with+personality.;Auto-Join+with+Glitter+and+Brains.;You+miss+nothing%2C+we+join+everything.;Bunnyfied+%7C+Sassy+%7C+Smart+Attendant!"/> </p>
+📬 Contact
+Email: jesuspromisesmedia@gmail.com
+
+Twitter/Discord: @princelailan
+
+Ping Daltonne Tonny on dev forums — backend whisperer 🔮
   body {
     margin: 0; 
     background: linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%);
