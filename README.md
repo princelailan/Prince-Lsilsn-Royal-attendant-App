@@ -1,88 +1,76 @@
-# 💃 Prince Lailan Royal Attendant 👑
+### 👑 Welcome to **Sassy Royal Attendant** 🐰🪄
 
-> *"Your loyal assistant, dressed in glitter, bunny ears, and attitude. Ready to SLAY your meetings!"*
-
-![Glitter Banner](https://media.giphy.com/media/IeRdg7bX4Kau4/giphy.gif)
-
----
-
-## 🧠 What Is This?
-
-The **Prince Lailan Royal Attendant** is a Gen Z-coded, sass-loaded, girlish AI-powered meeting assistant. Whether you're in Zoom, Google Meet, or just faking productivity, this baby gotchu:
-
-* 🎯 Auto-joins meetings
-* 🎥 Turns off cam + mic like a real introvert
-* 📸 Takes screenshots for receipts
-* 🧠 Smart UI detection (no dumb delays)
-* 🔔 Notifies you when meetings start
-* 🐰 Adorable Easter Bunny UI with rotating surprises
-* 🖼️ Girlish kingdom aesthetic (hello pink gradients + sparkles)
-
-## ⚙️ Tech Stack (aka the Sass Stack)
-
-| Layer      | Tool                                               |
-| ---------- | -------------------------------------------------- |
-| Frontend   | React (TailwindCSS, Framer Motion, girly fonts 💅) |
-| Backend    | Node.js + Express                                  |
-| DB         | MongoDB                                            |
-| Automation | Puppeteer / Playwright magic 🪄                    |
-| Desktop    | Electron (optional .exe fairy dust 🧚)             |
-
-## 💌 Features
-
-* 💄 Customizable girly UI (themes: Cotton Candy, Royal Bunny, Queen Mode)
-* 🕒 Join meetings via link or schedule
-* 🎤 Auto mute/unmute toggle
-* 📷 Screenshot gallery
-* 🧚‍♀️ Fairy-style toast notifications
-* 🐣 Idle checker & snooze mode
-
-## 👯‍♀️ Contributors (aka The Royal Court)
-
-* 👑 Joseph Onyango (aka Prince Lailan)
-* 🤴 Daltonne Tonny (Sir Code-a-Lot)
-* 💅 Queen GPT (ChatGPT, the backend baddie)
-
-## 🚀 How to Run It (Like A Queen)
-
-```bash
-# Clone the Kingdom
-$ git clone https://github.com/princelailan/royal-attendant.git
-
-# Royal Portal: Backend
-$ cd backend && npm install && npm run dev
-
-# Glam Up: Frontend
-$ cd ../frontend && npm install && npm run dev
-
-# Optional: Wrap it into .exe if you're extra
-```
-
-## 🌈 Screenshots (it’s a vibe)
-
-> *Insert sparkle-loaded, rainbow-kissed screenshots here...*
-
-![Dashboard](https://media.giphy.com/media/3o6ZsYqytU8nbiQXoU/giphy.gif)
-
-## 🤖 AI & Magic Sauce
-
-* 🧠 GPT agents to detect meeting links & join logic
-* 🖱️ Button clickers that slay
-* 🔮 Smart calendar integration (coming soon)
-
-## ✨ Extra ✨
-
-* 🐰 Built for Gen Z, by Gen Z
-* 🎓 Submitted for Power Learn Project (PLP) final MERN project
-* 💌 Inspired by real dev trauma & bunny dreams
+> *A girlish, AI-powered Zoom + Google Meet bot with ✨vibes, glam, sass, and unholy productivity energy.*
+> Developed by **Prince Lailan 👸** & **Daltonne Tonny 👑** — a collab made in keyboard heaven.
 
 ---
 
-> *"Even your boss will be like, ‘who IS this productivity goddess?’* – Prince Lailan probably
+### 🌛 What’s the Vibe?
+
+🎀 Autonomously joins Zoom/Meet links
+🎀 Turns off your mic & cam (like a shy princess)
+🎀 Clicks “Join” with precision (better than your crush clicking “seen”)
+🎀 Schedules your meetings, reminds you, even takes screenshots for receipts 😭
+🎀 Comes with a **bunnylised UI** full of glam & giggles
 
 ---
 
-🧵 Want the full walkthrough with glitter & sass? Drop by [princelailan.com](https://princelailan.com) or DM me on Discord: **@bunnyattendant#6969**
+### 🎉 LIVE FEATURES
 
-![Bye Gurl](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
+✨ Meeting Auto-Join
+✨ Smart Cam/Mic Control
+✨ UI Button Detection Magic
+✨ Screenshot Receipts 👑
+✨ Idle Checker ("Sis you froze?")
+✨ Royal Dashboard with Easter Bunnies & Party Mode 🐇🎈
+✨ Girlish, glittery themes
+✨ Optional Transcription & AI Note-Taking
 
+---
+
+### 🌈 Meet the Royals
+
+👸 **Joseph Onyango aka Prince Lailan** — Lead Dev & Kingdom Vibes CEO
+👑 **Daltonne Tonny** — UI/UX Sorcerer + Backend Boss
+🪄 **ShujaaGPT** — Royal AI Agent for screen-clicking sass
+
+---
+
+### 💻 Built With:
+
+🔪 MERN Stack (MongoDB, Express.js, React, Node.js)
+🎨 TailwindCSS (Serving LEWKS)
+🧠 AI Agents (Custom bots with real attitude)
+💅 Python Automation (For desktop glamour ops)
+🐰 Rainmeter UI + .exe launcher
+
+---
+
+### 📸 Screenshots or It Didn’t Happen
+
+\[Imagine GIFs here of the UI doing bunny twirls, glam sparkles, and the bot auto-joining like a legend.]
+
+---
+
+### ✨ How To Use
+
+1. Clone this royal repo
+2. Run `npm install && npm start` or launch the .exe
+3. Customize your meeting vibes (mute, cam-off, join style)
+4. Let the sass bot run your meetings like a queen
+
+---
+
+### 🌊 License
+
+MIT. Use it, glam it, remix it. Just don’t make it boring.
+
+---
+
+### 🎩 Royal Closing Note
+
+> You don’t just attend meetings. You **make an entrance.**
+
+---
+
+Made with sparkles ✨, bunnies 🐰, and extra attitude by [Prince Lailan](https://github.com/princelailan)
