@@ -1,94 +1,111 @@
-# 👑 Prince Lailan's Royal Attendant App
+<!-- Royal Attendant App README | Styled by Prince Lailan 👑 and Daltonne Tonny 🛡️ -->
 
-> *Built by* **Joseph Onyango** a.k.a **Prince Lailan** 🧚‍♀️ & **Daltonne Tonny** 👑
-> A magical, girlish, AI-powered .exe meeting bot built with love, sass, and MERN Stack tech!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Royal+Attendant!;Built+with+💖+by+Prince+Lailan+%26+Daltonne+Tonny;&center=true&size=30">
+</h1>
 
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZkcGJ1YzY1azFjb3M4d3JqOWQ3a3p3a2ppb3h2eHZrcTN1OXV5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eJ4j2VnYOZU8qJU3Py/giphy.gif)
-
----
-
-## 🌟 What Is This?
-
-Welcome to the **Royal Attendant App**, your magical assistant that:
-
-🪄 Auto-joins Google Meet / Zoom meetings
-🎥 Turns off camera & mic before joining
-🖱️ Clicks the "Join" button automatically
-📸 Takes proof screenshots of attendance
-👑 Comes in a girlish, Kingdom-themed UI with glitter ✨
-
-> Built using **MongoDB**, **Express.js**, **React**, **Node.js** with a sprinkle of fairy dust 💫
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-💻🛠️-blueviolet"/>
+  <img src="https://img.shields.io/badge/GPT-4+Vision-🧠✨-pink"/>
+  <img src="https://img.shields.io/badge/AutoZoomBot-AI%20Powered-green"/>
+</p>
 
 ---
 
-## 🧰 Features
+## 🧠 Overview
 
-* 🎯 Auto-launch meetings with a custom schedule
-* 📸 Screenshots attendance and saves to gallery
-* 🔇 Disables mic + cam with one click
-* 🧠 Smart UI detection (Google Meet & Zoom)
-* 🧚‍♂️ Kingdom dashboard with animated Easter eggs
-* 💾 Save links and settings to local storage
+**The Royal Attendant App** is your majestic sidekick for virtual meetings 👑. It auto-joins Zoom/Google Meet meetings, disables the camera, clicks that pesky "Join" button, and even grabs screenshots as royal proof 👁️📸. With a fun, bunny-fied, girly UI that slaps, this app runs like a dream on Windows (.exe).
+
+> No more awkward silences, no more "Oops I forgot to join" – the kingdom's got your back.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Features
 
-| Tech        | What it Does                            |
-| ----------- | --------------------------------------- |
-| 🟢 MongoDB  | Database for users & meeting data       |
-| 🚀 Express  | Backend routes & auth                   |
-| ⚛️ React    | UI with Kingdom vibes and custom themes |
-| 🖥️ Node.js | Server runtime                          |
-
----
-
-## 🎨 Screenshots
-
-> *Add your own here!*
-
-| Auto Joiner                                                         | Dashboard                                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![auto](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif) | ![dash](https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif) |
+✨ Auto-detect meeting type and join with class (Zoom or Google Meet)
+✨ Switch off camera + mic (introvert’s dream)
+✨ Auto-click "Join" button like royalty
+✨ Scheduled meetings w/ reminders 👑⏰
+✨ Screenshot proof (stored neatly inside app)
+✨ Smart idle checker + taskbar spy
+✨ Royal UI with Easter bunny aesthetics 🐇🎀
+✨ Settings dashboard for customization
+✨ Upcoming: AI transcript + calendar sync
 
 ---
 
-## 🔧 Installation & Run (Local Dev)
+## 🛠️ Tech Stack
+
+* ⚛️ React.js (Frontend)
+* 🎨 Tailwind CSS + Framer Motion (Styling + Animations)
+* 🧠 GPT-4o Vision API (Magic!)
+* 🐍 Python (Bot logic)
+* ⚙️ Electron + Node.js (Packaging to .exe)
+* 🗃️ Supabase (Backend)
+
+---
+
+## 🔐 Auth & Security
+
+* Email/password login 🔐
+* Optional Google login 🚪
+* Data is stored securely in Supabase 🔒
+
+---
+
+## 🧑‍💻 Creators
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/105164568?v=4" width="100px;" alt="Joseph Onyango"/><br />
+      <sub><b>Prince Lailan 👑</b></sub><br/>
+      <sub>Fullstack Dev, UI Artist</sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/163888738?v=4" width="100px;" alt="Daltonne Tonny"/><br />
+      <sub><b>Daltonne Tonny 🛡️</b></sub><br/>
+      <sub>Backend Wizard & AI Whisperer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📷 Screenshots
+
+| Dashboard                     | Meeting Bot                 | Proof Section                           |
+| ----------------------------- | --------------------------- | --------------------------------------- |
+| ![UI](./assets/dashboard.png) | ![Bot](./assets/bot-ui.png) | ![Proof](./assets/screenshots-view.png) |
+
+---
+
+## 💾 Installation
 
 ```bash
-git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-cd Prince-Lsilsn-Royal-attendant-App
-npm install
-npm run dev
+# Clone the repo
+$ git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
+
+# Install frontend deps
+$ cd client && npm install && npm run dev
+
+# Install backend & bot logic
+$ cd ../server && npm install && node index.js
+
+# Package as exe (Electron)
+$ npm run package-win
 ```
 
-> ⚠️ Make sure you’ve set up your `.env` with the right Supabase / MongoDB keys.
-
 ---
 
-## 🙌 Authors
+## ❤️ Support the Kingdom
 
-* 🧚‍♀️ [Prince Lailan (Joseph Onyango)](https://github.com/princelailan)
-* 🧙‍♂️ [Daltonne Tonny](https://github.com/Daltonne)
+> Like what you see? Help us grow the Royal Court:
 
-Special thanks to all our magical testers 🐰 and royal critics 👑
-
----
-
-## 💝 Support Us
-
-If you vibe with this, consider dropping a ⭐️ or sponsoring us!
-
-| Platform          | Link Placeholder  |
-| ----------------- | ----------------- |
-| ☕ Buy Me A Coffee | `@princelailan`   |
-| ❤️ Ko-Fi          | `@daltonne-tonny` |
-| 👼 GitHub Sponsor | `@princelailan`   |
-
-> *We build from phones. We deliver like queens. Crown us.*
+[![Buy us a Coffee ☕](https://img.shields.io/badge/Buy%20me%20a%20Coffee-Prince%20%26%20Daltonne-yellow?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/princelailan)
 
 ---
 
 ## 📜 License
 
-MIT License — Feel free to fork, remix, or bunnylize 🐇✨
+MIT License © Prince Lailan & Daltonne Tonny
