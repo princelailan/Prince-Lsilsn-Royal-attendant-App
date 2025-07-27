@@ -1,108 +1,68 @@
-# 👑 Prince Lailan & Daltone Tonny's Royal Attendant App 💅
+# 👑 Prince Lailan's Royal Attendant App 💅
 
-> *"Slay your meetings like royalty. Let the bot do the boring part while you sip your chai or charge your crystals."*
-
-![Royal Attendant](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3ZTVyNHg5cXRrNXYzZHNoc2htajZncWc1c21sazhsODZycmtqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MABF5Sx0QdfwA/giphy.gif)
+> A sassy, girlish, bunny-fied meeting attendant bot made by **Joseph Onyango** & **Daltone Tonny** for Gen Z devs who like their tools functional *and* fabulous.
 
 ---
 
-## 🌐 [🔗 Live Preview](https://princelailan.github.io/Prince-Lsilsn-Royal-attendant-App/)
-
-## 📽️ [🎥 Pitch Video Placeholder](https://youtu.be/your_pitch_link_here)
-
-> ✅ **Fully working. Fully wild.** — React + Node.js + Puppeteer magic. Inspired by Zoom-fatigue and coded with sass.
-
----
-
-## ✨ What It Does
-
-🚀 Automatically:
-
-* Opens Zoom/Google Meet links
-* Turns off cam + mic
-* Clicks the "Join" button like it owes you rent
-* Screenshots for receipts (👀 we got proof)
-* Detects if meetings are still active
-* Saves your time, your battery, and your dignity
-
-> *"Because even your laptop deserves a break from that 8am lecture."*
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btP5h5fZjxkM5U4/giphy.gif" width="200"/>
+  <h2><marquee>✨ Auto Join + Slay ✨ | 🧠 Smart Cam-Off | 📸 Screenshot Mode | 🐰 Bunny Kingdom UI</marquee></h2>
+</div>
 
 ---
 
-## 🎨 UI: It's Giving...
+## 🌐 Live Preview
 
-🌸 **Girlish royalty + dev core**
+👉 [Launch the Royal Attendant](https://princelailan-attendant.netlify.app)
 
-* Animated Easter bunnies 🐰
-* Shimmering attendance logs
-* Sassy popups
-* Modern .EXE build (Windows)
-
-> *"Looks like a fairy tale, works like a hacker."*
+> *"No more boring joins — just click and let it slay."*
 
 ---
 
-## ⚙️ Tech Stack (aka The Spell Book)
+## 🎯 What This Bot Slays At
 
-* 📦 **Frontend:** React, TailwindCSS
-* ⚙️ **Backend:** Node.js + Express
-* 🤖 **Bot:** Puppeteer (launches browser, clicks stuff)
-* 💾 **Storage:** Local logs + screenshots
-
----
-
-## 💡 Features (That Go Hard)
-
-* ✅ Smart UI detection for buttons
-* 🎯 Scheduling meetings like a boss
-* 👀 Auto mute cam & mic
-* 🪞 Meeting screenshot proof
-* 🌘 Optional themes: Dark mode, Fairy Mode, Hacker Vibes
+* ✅ Auto-joins Zoom + Google Meet from schedule or link
+* 📴 Turns off cam + mic like a shy princess
+* 🔘 Clicks the Join buttons for you (UI-based detection)
+* 📷 Takes attendance screenshots (saved locally)
+* 🧚‍♀️ Magical girly UI with animated Easter eggs
+* 🕵️ Idle checker to catch ghosted meetings
+* 🗓️ Schedule auto-attend like a queen
 
 ---
 
-## 🧠 Built With Love by:
-
-* 👑 Joseph Onyango aka **Prince Lailan**
-* 🛡️ Daltone Tonny aka **The Script Knight**
-
----
-
-## 🛠️ How to Run (Locally or in the Dungeons)
+## ⚙️ Setup Like Royalty
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
-> *Or double-click the .EXE and slay.*
+---
+
+## 👯 Meet the Sassy Duo
+
+| Name           | Role                      | Vibe            |
+| -------------- | ------------------------- | --------------- |
+| Joseph Onyango | Lead Dev + UI Overlord    | 💅 Bunnyfier 👑 |
+| Daltone Tonny  | AI Tamer & Logic Sorcerer | 🔮 Feature King |
 
 ---
 
-## 🔥 Upcoming Features
+## 🎥 Placeholder for Pitch Deck
 
-* 💬 AI-based transcription assistant
-* 📅 Calendar integration
-* 🧠 Smart join suggestions
-* 🐦 Auto tweet "I'm in a boring meeting, send memes."
+[Pitch Deck PDF Coming Soon](#)
 
 ---
 
-## 🌟 Final Words
+## 💖 Feedback? Suggestions? Add More Sass? Slide into the [Issues](https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App/issues) like it's hot.
 
-> ✨ *"This isn’t just a project. It’s a **movement**. For every student, dev, or tired human who’s ever whispered: 'This meeting could’ve been an email.'"*
-
----
-
-## 📣 Collab With Us
-
-Got ideas? Want to vibe on the next build?
-DM Prince Lailan or Daltone. We’re on GitHub, LinkedIn, and probably hacking from a matatu right now.
+> Built by passion. Ruled by glitter. Run by code.
 
 ---
 
-### 🧵 Hashtags We’d Use If This Was TikTok:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=200&color=F70B95&center=true&vCenter=true&multiline=true&width=800&lines=We+build+bots+with+personality.;Auto-Join+with+Glitter+and+Brains.;You+miss+nothing%2C+we+join+everything.;Bunnyfied+%7C+Sassy+%7C+Smart+Attendant!"/>
+</div>
 
-```
-#DevRoyalty #AutoJoinBot #ZoomSucks #KenyanHackers #GirlBossEnergy #MERNSlay #PrinceAndKnight
-```
+---
