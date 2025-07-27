@@ -1,111 +1,118 @@
-<!-- Royal Attendant App README | Styled by Prince Lailan 👑 and Daltonne Tonny 🛡️ -->
+<!-- ROYAL README 👑 PRINCE LAILAN x DALTONNE TONNY EDITION -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+the+Royal+Attendant!;Built+with+💖+by+Prince+Lailan+%26+Daltonne+Tonny;&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&vCenter=true&multiline=true&width=500&height=100&lines=Prince+Lailan+Royal+Attendant+App;Built+with+Love+by+Lailan+%26+Daltonne"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-💻🛠️-blueviolet"/>
-  <img src="https://img.shields.io/badge/GPT-4+Vision-🧠✨-pink"/>
-  <img src="https://img.shields.io/badge/AutoZoomBot-AI%20Powered-green"/>
+  <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/badge/UI-Girlish_+_Royal-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-ff69b4?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 Overview
-
-**The Royal Attendant App** is your majestic sidekick for virtual meetings 👑. It auto-joins Zoom/Google Meet meetings, disables the camera, clicks that pesky "Join" button, and even grabs screenshots as royal proof 👁️📸. With a fun, bunny-fied, girly UI that slaps, this app runs like a dream on Windows (.exe).
-
-> No more awkward silences, no more "Oops I forgot to join" – the kingdom's got your back.
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  🪄✨ Your personal AI-powered meeting assistant! It opens links, joins meetings, switches off camera/mic, and even takes attendance screenshots! ✨🪄
+</marquee>
 
 ---
 
-## 🚀 Features
+## 👑 About the Project
 
-✨ Auto-detect meeting type and join with class (Zoom or Google Meet)
-✨ Switch off camera + mic (introvert’s dream)
-✨ Auto-click "Join" button like royalty
-✨ Scheduled meetings w/ reminders 👑⏰
-✨ Screenshot proof (stored neatly inside app)
-✨ Smart idle checker + taskbar spy
-✨ Royal UI with Easter bunny aesthetics 🐇🎀
-✨ Settings dashboard for customization
-✨ Upcoming: AI transcript + calendar sync
+> This isn't your average bot. This is **Prince Lailan's Royal Attendant** — a beautiful .exe app that:
+>
+> * Opens Zoom/Google Meet links automatically 💻
+> * Clicks 'Join', switches off cam & mic 🎥🔇
+> * Takes screenshots for proof 📸
+> * Tracks time, session info, and taskbar activity ⏱️
+> * Gives visual feedback with a girlish, bunny-themed UI 🐰💖
+> * Includes a Settings Palace for customizations ⚙️
+> * Logs everything for future reference 📜
 
 ---
 
 ## 🛠️ Tech Stack
 
-* ⚛️ React.js (Frontend)
-* 🎨 Tailwind CSS + Framer Motion (Styling + Animations)
-* 🧠 GPT-4o Vision API (Magic!)
-* 🐍 Python (Bot logic)
-* ⚙️ Electron + Node.js (Packaging to .exe)
-* 🗃️ Supabase (Backend)
+```bash
+- MongoDB 🍃
+- Express.js 🚀
+- React.js ⚛️
+- Node.js 🧠
+- Electron + Python 🧪
+```
+
+> Styled with Tailwind, Rainbow gradients, and Kingdom-level design rules.
 
 ---
 
-## 🔐 Auth & Security
-
-* Email/password login 🔐
-* Optional Google login 🚪
-* Data is stored securely in Supabase 🔒
-
----
-
-## 🧑‍💻 Creators
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/105164568?v=4" width="100px;" alt="Joseph Onyango"/><br />
-      <sub><b>Prince Lailan 👑</b></sub><br/>
-      <sub>Fullstack Dev, UI Artist</sub>
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/163888738?v=4" width="100px;" alt="Daltonne Tonny"/><br />
-      <sub><b>Daltonne Tonny 🛡️</b></sub><br/>
-      <sub>Backend Wizard & AI Whisperer</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📷 Screenshots
-
-| Dashboard                     | Meeting Bot                 | Proof Section                           |
-| ----------------------------- | --------------------------- | --------------------------------------- |
-| ![UI](./assets/dashboard.png) | ![Bot](./assets/bot-ui.png) | ![Proof](./assets/screenshots-view.png) |
-
----
-
-## 💾 Installation
+## 🚀 Setup Instructions
 
 ```bash
-# Clone the repo
-$ git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-
-# Install frontend deps
-$ cd client && npm install && npm run dev
-
-# Install backend & bot logic
-$ cd ../server && npm install && node index.js
-
-# Package as exe (Electron)
-$ npm run package-win
+git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
+cd Prince-Lsilsn-Royal-attendant-App
+npm install && npm start
 ```
 
 ---
 
-## ❤️ Support the Kingdom
+## 📸 Screenshots
 
-> Like what you see? Help us grow the Royal Court:
+| Launcher                             | Dashboard                            | Auto Joiner                          |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![](https://i.imgur.com/6Z8gbLn.gif) | ![](https://i.imgur.com/Dfh3kBt.gif) | ![](https://i.imgur.com/BtDn5vw.gif) |
 
-[![Buy us a Coffee ☕](https://img.shields.io/badge/Buy%20me%20a%20Coffee-Prince%20%26%20Daltonne-yellow?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=white)](https://buymeacoffee.com/princelailan)
+> More coming soon... with sparkles ✨
 
 ---
 
-## 📜 License
+## ✨ Features
 
-MIT License © Prince Lailan & Daltonne Tonny
+* 🎯 **Auto Launch & Join Meetings**
+* 🎥 **Cam/Mic Off by Default**
+* 🖱️ **Auto Click Join Button**
+* 📸 **Takes Proof Screenshots**
+* 🏰 **Royal UI with Bunny Vibes**
+* 📅 **Meeting Scheduler**
+* 🔎 **Smart UI Element Detection**
+* 📁 **Proof Gallery**
+* 🗂️ **Session Logs**
+* 💬 **Optional Transcriptions**
+
+---
+
+## 💑 Built With Love by
+
+| 👑 Prince Lailan                                           | ⚔️ Daltonne Tonny                                          |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![](https://avatars.githubusercontent.com/u/138154681?v=4) | ![](https://avatars.githubusercontent.com/u/164194779?v=4) |
+
+---
+
+## 🌐 Connect with Us
+
+* 🐦 [@PrinceLailan](https://twitter.com/PrinceLailan)
+* 🌍 [GitHub](https://github.com/princelailan)
+* ☕ DM for collabs & fun 😎
+
+---
+
+## ❤️ Support This Royalty
+
+If you love our app, consider helping the kingdom grow:
+
+```yaml
+github: [princelailan, daltonnetonny]
+ko_fi: princelailan
+buy_me_a_coffee: princelailan
+```
+
+---
+
+> "Built not just to work... but to SLAY."
+
+<marquee behavior="alternate" direction="right" scrollamount="12">
+👑 Thank you for visiting the royal repo! 👑
+</marquee>
+
+---
