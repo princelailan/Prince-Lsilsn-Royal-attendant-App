@@ -1,52 +1,54 @@
 # 👑 Prince Lailan x Daltonne Tonny's Royal Attendant App
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JtBZm5jGJpJbK/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="300" />
 </p>
 
-> <h3 align="center"><em>Where AI meets glam. Where meetings obey.</em></h3>
+> <h3 align="center"><em>✨ When AI glams up your meetings — so you don't have to. ✨</em></h3>
 
-🪞 A sassy, magical, Gen Z-coded app by <strong>Joseph Onyango</strong> & <strong>Daltonne Tonny</strong> that auto-joins your virtual meetings with grace, glitter, and zero clicks. No more "Oops, I’m late!" moments — your Royal Attendant has you.
+🪞 Say hello to a Gen Z-coded, unapologetically extra desktop app that makes meetings feel like royal summons. Built by <strong>Joseph Onyango</strong> and <strong>Daltonne Tonny</strong>, it's your digital butler — just way cuter and smarter.
 
 ---
 
-## 💡 <u>What is this sorcery?</u>
+## 💡 <u>What Is This Royal Sorcery?</u>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o6ZsYm5GBvyX7ewtC/giphy.gif" width="350" />
 </p>
 
-The <strong>Royal Attendant App</strong> is your AI-infused, bunny-styled, auto-clicking, mic-muting, screenshot-snapping digital butler. It handles Zoom/Google Meet like royalty.
+The **Royal Attendant App** is not just another productivity tool — it’s ✨ attitude in code. Packed with sass, style, and automation, it joins meetings, silences chaos, and proves you showed up, all without you lifting a finger.
 
-> <strong><em>Built for busy kings & queens who code, teach, game, and forget meetings exist.</em></strong>
+> <strong><em>Perfect for the overbooked, the overwhelmed, and the "oops, was that today?" crowd.</em></strong>
 
 ---
 
 ## 🧠 <u>Core Features</u>
 
-✨ Auto-joins <strong>Google Meet / Zoom</strong> links on schedule
-🎤 Mutes mic & 🎥 switches off cam before you can panic
-📸 Takes screenshots for proof like a lil snitchy butler
-🌸 <strong>Girlish UI</strong> with princely elegance and bunny sparkles
-🕵️ Idle checker + taskbar presence status
-⚙️ Full settings panel + upcoming GPT assistant integration
+💻 Auto-joins <strong>Zoom / Google Meet</strong> meetings on schedule
+🎙️ Silences mic & cam (because we stay mysterious)
+📸 Snaps attendance receipts — for the receipts
+🎀 Glam UI with pastel pinks, sparkles, and smooth flows
+🕵️‍♀️ Idle detector + visible tray indicator
+⚙️ Settings panel + planned GPT voice sidekick
 
-> <em>More features dropping like confetti soon.</em> 🎉
-
----
-
-## ⚙️ <u>Tech Stack</u>
-
-* 🧠 <strong>React + CRA</strong> (Frontend magic)
-* 💅 <strong>Tailwind CSS</strong> (For the drip)
-* 🐍 <strong>Python</strong> (for smart backend spells — WIP)
-* 🪄 <strong>Node.js + Express</strong> (Serving backend sass)
-* 🌐 <strong>Netlify</strong> (Frontend hosting)
-* 🚧 <strong>Render / Railway</strong> (Backend coming soon)
+<p align="center">
+  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="250" />
+</p>
 
 ---
 
-## 🚀 <u>Getting Started</u>
+## ⚙️ <u>Tech Stack (a.k.a The Royal Arsenal)</u>
+
+* 🧠 React + Create React App (Frontend spells)
+* 💅 Tailwind CSS (for that silky UI)
+* 🐍 Python (optional smart backend, still brewing)
+* 🔧 Node.js + Express (Backend logic w/ flair)
+* 🌐 Hosted on Netlify (Frontend)
+* 🏗️ Render / Railway (Backend rollout pending)
+
+---
+
+## 🚀 <u>Getting Started Like a Pro</u>
 
 ```bash
 git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
@@ -55,65 +57,65 @@ npm install
 npm start
 ```
 
-🌐 Open: <code>[http://localhost:3000](http://localhost:3000)</code> — and prepare to be wowed. 💻✨
+🎯 Open: `http://localhost:3000` — then sit back, sip your tea, and let the butler serve.
 
 ---
 
-## 📦 <u>For Production</u>
+## 📦 <u>Production Mode</u>
 
 ```bash
 npm run build
 ```
 
-Outputs to <code>build/</code> — perfect for Netlify deployment.
+Creates a `/build` folder — Netlify loves it.
 
 ---
 
-## 🛠 <u>Live Deployment</u>
+## 🌍 <u>Live Link (So You Can Flex It)</u>
 
-Frontend: [🟢 Royal Attendant Live](https://prince-lailan-royal-attendant-app.netlify.app)
-Backend: <strong>Coming Soon</strong> (via Render / Railway)
+🟢 [Live Frontend](https://prince-lailan-royal-attendant-app.netlify.app)
+⚙️ Backend: *Coming soon via Render/Railway*
 
 ---
 
-## 🧁 <u>Credits & Vibes</u>
+## 🧁 <u>Credits, Chaos & Cosmic Vibes</u>
 
-👑 Built by:
+👑 Created by:
 
-* <strong>Prince Lailan (Joseph Onyango)</strong> – Vibe coder, UI sorcerer, pastel wizard
-* <strong>Daltonne Tonny</strong> – Backend alchemist, code warrior, logic whisperer
+* <strong>Prince Lailan (Joseph Onyango)</strong> — UI visionary, kingdom vibes curator
+* <strong>Daltonne Tonny</strong> — backend wizard, logic chef, silent operator
 
-🎨 Style: <em>Magical Bunnycore Kingdom Aesthetic™</em>
-
-🕛 Crafted during chaotic midnight codeathons powered by tea, gospel music, long convos, and ✝️ unshaken faith.
+🎨 Aesthetic: <em>Magical Bunnycore Kingdom™</em>
+🕛 Engineered under stress, gospel tunes, and ✝️ divine vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Zn5Amhl9r4z0A/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xUOxf48tRgXJfekb6M/giphy.gif" width="280" />
 </p>
 
 ---
 
-## 🐇 <u>Coming Soon (aka Easter Eggs 🥚)</u>
+## 🐣 <u>Upcoming Royal Upgrades</u>
 
-* 🤖 GPT-powered smart replies
-* 🐰 Animated bunny loading screens
-* 🎉 Confetti bursts when meetings end
-* 🔔 Slack/Discord + voice assistant integration
-* 🌟 Co-op mode to run the app in tag-team with your bestie
-
----
-
-## 💌 <u>Contact / Collab</u>
-
-📬 DM us: <code>@princelailan</code>
-📧 Email: <code>[jesuspromisesmedia@gmail.com](mailto:jesuspromisesmedia@gmail.com)</code>
-💬 Ping <strong>Daltonne Tonny</strong> on dev forums — he’s the backend whisperer.
-
-> <strong>"Because royalty shouldn't have to click <em>Join</em> manually — especially when it’s a Daltonne x Lailan production."</strong>
+* 🤖 GPT-powered reply generator
+* 🐰 Animated bunny loader w/ blink
+* 🎉 Auto confetti on meeting end
+* 🔔 Slack/Discord alerts
+* 🎤 Voice-command features
 
 ---
+
+## 💌 <u>Slide Into Our Royal DMs</u>
+
+📬 @princelailan
+📧 [jesuspromisesmedia@gmail.com](mailto:jesuspromisesmedia@gmail.com)
+💬 Ask for Daltonne in the backend cave 🕳️
+
+> <strong><em>Why click 'Join' when you can summon AI royalty instead?</em></strong>
 
 <p align="center">
-  🦄 <em>Auto-attend like a king. Code like a queen. Rule like both.</em><br>
-  <img src="https://media.giphy.com/media/mGzG5DpmSFz16/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  🦄 <strong><em>Built by dreamers. Run by AI. Designed to slay.</em></strong>
 </p>
