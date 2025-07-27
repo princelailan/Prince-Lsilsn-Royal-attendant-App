@@ -1,121 +1,75 @@
-# 👑 Prince Lailan x Daltonne Tonny's Royal Attendant App
+# 👑 Prince Lailan & Daltone Tonny's Royal Attendant App
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="300" />
-</p>
+> An AI-powered, girly-coded, bunny-themed .exe masterpiece built with MERN Stack magic. Designed to auto-join meetings like a royal boss — camera off, mic muted, join clicked. With a sprinkle of Gen Z chaos.
 
-> <h3 align="center"><em>✨ When AI glams up your meetings — so you don't have to. ✨</em></h3>
+![Royal Attendant Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4OHFscmJ1bnpuYTF3bHJ1b3ZqdjdhcGN6YW9od3AxNWF1ZWp6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orieXe0C3Kq0CUXs4/giphy.gif)
 
-🪞 Say hello to a Gen Z-coded, unapologetically extra desktop app that makes meetings feel like royal summons. Built by <strong>Joseph Onyango</strong> and <strong>Daltonne Tonny</strong>, it's your digital butler — just way cuter and smarter.
+## 💖 Features
 
----
+* 🎀 Auto joins Zoom and Google Meet meetings with **camera off** and **mic muted**
+* 🐰 Royal GUI with girlish sparkle and Easter Bunny themes
+* 🧠 AI-powered detection of "Join" buttons & meeting states
+* 📸 Takes stealthy screenshots for proof
+* 🗓️ Scheduled meeting joins + reminders
+* 💤 Idle checker for user inactivity
+* 🎀 In-app screenshot gallery
+* ✨ Settings kingdom to customize UI, switch themes, and get royal with it
 
-## 💡 <u>What Is This Royal Sorcery?</u>
+## 👑 Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5GBvyX7ewtC/giphy.gif" width="350" />
-</p>
+> Because royalty deserves the best
 
-The **Royal Attendant App** is not just another productivity tool — it’s ✨ attitude in code. Packed with sass, style, and automation, it joins meetings, silences chaos, and proves you showed up, all without you lifting a finger.
+* **Frontend**: React.js + Tailwind CSS
+* **Backend**: Node.js + Express.js
+* **Database**: MongoDB (Mongoose)
+* **Desktop App**: Electron
+* **AI/Automation**: Puppeteer + Custom Logic
 
-> <strong><em>Perfect for the overbooked, the overwhelmed, and the "oops, was that today?" crowd.</em></strong>
+## 💅 Screenshots
 
----
+| 👸 Dashboard                                                       | 🐣 Scheduler                                                        | 💻 Proof Shots                                                      |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![img1](https://media.giphy.com/media/l3vRnFzUek4bht8AE/giphy.gif) | ![img2](https://media.giphy.com/media/3o7aD9vQv4nyXgdpDi/giphy.gif) | ![img3](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif) |
 
-## 🧠 <u>Core Features</u>
-
-💻 Auto-joins <strong>Zoom / Google Meet</strong> meetings on schedule
-🎙️ Silences mic & cam (because we stay mysterious)
-📸 Snaps attendance receipts — for the receipts
-🎀 Glam UI with pastel pinks, sparkles, and smooth flows
-🕵️‍♀️ Idle detector + visible tray indicator
-⚙️ Settings panel + planned GPT voice sidekick
-
-<p align="center">
-  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="250" />
-</p>
-
----
-
-## ⚙️ <u>Tech Stack (a.k.a The Royal Arsenal)</u>
-
-* 🧠 React + Create React App (Frontend spells)
-* 💅 Tailwind CSS (for that silky UI)
-* 🐍 Python (optional smart backend, still brewing)
-* 🔧 Node.js + Express (Backend logic w/ flair)
-* 🌐 Hosted on Netlify (Frontend)
-* 🏗️ Render / Railway (Backend rollout pending)
-
----
-
-## 🚀 <u>Getting Started Like a Pro</u>
+## 🧁 Installation
 
 ```bash
 git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-cd frontend
+cd Prince-Lsilsn-Royal-attendant-App
 npm install
-npm start
+npm run dev
 ```
 
-🎯 Open: `http://localhost:3000` — then sit back, sip your tea, and let the butler serve.
-
----
-
-## 📦 <u>Production Mode</u>
+> To run as .exe:
 
 ```bash
 npm run build
 ```
 
-Creates a `/build` folder — Netlify loves it.
+## ✨ Submit Worthy?
+
+**1000% YES.**
+If your instructor has taste, this is the *chef's kiss* of MERN final projects:
+
+* Cross-platform
+* Real-world use-case
+* Full-stack implementation
+* Smart automation
+* Custom UI and themeing
+
+## 🙌 Contributors
+
+* 🧚‍♂️ **Joseph Onyango (Prince Lailan)**
+* 🦸‍♂️ **Daltone Tonny**
+
+## 💸 Support Our Kingdom
+
+> Building royal apps costs coins, dear peasants 😌
+
+* [Buy Me a Coffee](https://buymeacoffee.com/princelailan)
+* [Ko-Fi](https://ko-fi.com/princelailan)
 
 ---
 
-## 🌍 <u>Live Link (So You Can Flex It)</u>
-
-🟢 [Live Frontend](https://prince-lailan-royal-attendant-app.netlify.app)
-⚙️ Backend: *Coming soon via Render/Railway*
-
----
-
-## 🧁 <u>Credits, Chaos & Cosmic Vibes</u>
-
-👑 Created by:
-
-* <strong>Prince Lailan (Joseph Onyango)</strong> — UI visionary, kingdom vibes curator
-* <strong>Daltonne Tonny</strong> — backend wizard, logic chef, silent operator
-
-🎨 Aesthetic: <em>Magical Bunnycore Kingdom™</em>
-🕛 Engineered under stress, gospel tunes, and ✝️ divine vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48tRgXJfekb6M/giphy.gif" width="280" />
-</p>
-
----
-
-## 🐣 <u>Upcoming Royal Upgrades</u>
-
-* 🤖 GPT-powered reply generator
-* 🐰 Animated bunny loader w/ blink
-* 🎉 Auto confetti on meeting end
-* 🔔 Slack/Discord alerts
-* 🎤 Voice-command features
-
----
-
-## 💌 <u>Slide Into Our Royal DMs</u>
-
-📬 @princelailan
-📧 [jesuspromisesmedia@gmail.com](mailto:jesuspromisesmedia@gmail.com)
-💬 Ask for Daltonne in the backend cave 🕳️
-
-> <strong><em>Why click 'Join' when you can summon AI royalty instead?</em></strong>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  🦄 <strong><em>Built by dreamers. Run by AI. Designed to slay.</em></strong>
-</p>
+> Built with glitter, caffeine, and sleepless nights.
+> Long live the dev kingdom. 👑
