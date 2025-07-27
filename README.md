@@ -13,6 +13,10 @@
 🪞 Cute girly GUI with bunnies & Easter eggs
 📅 Smart Scheduling & Reminders
 🎭 Transcription toggle + Calendar sync
+🎨 In-app screenshot viewer with gallery mode
+💌 Kingdom-themed notification system
+🧙‍♀️ Automatic idle checker that logs out respectfully
+📁 Local data vault for screenshots and attendance logs
 
 ---
 
@@ -21,6 +25,8 @@
 🟣 MERN Stack (MongoDB, Express, React, Node.js)
 🌈 TailwindCSS + Framer Motion = spicy frontend animations
 🧠 Puppeteer & Tesseract.js for smart UI bot moves
+🪄 Electron for the .exe sorcery
+👁️‍🗨️ Node-notifier & Luxon for magical popups & smart time handling
 
 ---
 
@@ -44,6 +50,8 @@ $ npm install
 # Ascend the app
 $ npm start
 ```
+
+Or just run the prebuilt `.exe` in the `dist/` folder for instant slay 👠
 
 ---
 
