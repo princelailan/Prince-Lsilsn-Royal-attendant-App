@@ -1,118 +1,121 @@
-<!-- ROYAL README 👑 PRINCE LAILAN x DALTONNE TONNY EDITION -->
+# SupaBook - MERN Stack Project
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&vCenter=true&multiline=true&width=500&height=100&lines=Prince+Lailan+Royal+Attendant+App;Built+with+Love+by+Lailan+%26+Daltonne"/>
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/f9hnhCPwJ0WCc/giphy.gif" width="200" height="200">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/badge/UI-Girlish_+_Royal-pink?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-ff69b4?style=for-the-badge">
-</p>
+  <h1 style="font-size: 2.5em; font-weight: bold; text-shadow: 2px 2px #FF69B4;">📚 SupaBook 📚</h1>
 
----
+  <h2 style="color: #8A2BE2; font-family: 'Comic Sans MS'; animation: pulse 2s infinite;">
+    The Ultimate MERN Stack Journal ✨
+  </h2>
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  🪄✨ Your personal AI-powered meeting assistant! It opens links, joins meetings, switches off camera/mic, and even takes attendance screenshots! ✨🪄
-</marquee>
-
----
-
-## 👑 About the Project
-
-> This isn't your average bot. This is **Prince Lailan's Royal Attendant** — a beautiful .exe app that:
->
-> * Opens Zoom/Google Meet links automatically 💻
-> * Clicks 'Join', switches off cam & mic 🎥🔇
-> * Takes screenshots for proof 📸
-> * Tracks time, session info, and taskbar activity ⏱️
-> * Gives visual feedback with a girlish, bunny-themed UI 🐰💖
-> * Includes a Settings Palace for customizations ⚙️
-> * Logs everything for future reference 📜
+  <div style="font-size: 1.2em; color: #FF1493;">
+    <marquee scrollamount="8" behavior="alternate">
+      👑 Joseph Onyango 👑 — Daltone Tonny 🦾 — Daisy Mbeke 💅 — Charity Kendi 🎨 — Maxwell Kipkemoi 🚀 — Prince Lailan 🐣 — Joan Omondi 🧠 — John Kiplangat 🧢 — Gloria Kendi 🌸 — Kevin Mwenda 🎯 — Milka Nyawira 🌻 — Abdi Hassan 🦄
+    </marquee>
+  </div>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Features
+
+* 📘 Add, edit, and delete books
+* 🔍 Search books by title or author
+* 🧾 Beautiful and minimal UI
+* 🔐 Auth secured (JWT based)
+* 🧠 Responsive and user-friendly
+
+---
+
+## 🚀 Tech Stack
+
+* **MongoDB**
+* **Express.js**
+* **React.js**
+* **Node.js**
+
+---
+
+## 🌈 Screenshots
+
+| Home Page                  | Add Book                 | Book List                  |
+| -------------------------- | ------------------------ | -------------------------- |
+| ![Home](./assets/home.png) | ![Add](./assets/add.png) | ![List](./assets/list.png) |
+
+---
+
+## 🔧 Installation
 
 ```bash
-- MongoDB 🍃
-- Express.js 🚀
-- React.js ⚛️
-- Node.js 🧠
-- Electron + Python 🧪
-```
+# Clone the repo
+git clone https://github.com/your-username/supabook.git
+cd supabook
 
-> Styled with Tailwind, Rainbow gradients, and Kingdom-level design rules.
+# Install backend dependencies
+cd backend
+npm install
+
+# Install frontend dependencies
+cd ../frontend
+npm install
+
+# Run the app
+npm run dev
+```
 
 ---
 
-## 🚀 Setup Instructions
+## 📁 Folder Structure
 
 ```bash
-git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-cd Prince-Lsilsn-Royal-attendant-App
-npm install && npm start
+supabook/
+├── backend/
+│   └── models, routes, controllers, config
+├── frontend/
+│   └── components, pages, App.jsx
+└── README.md
 ```
 
 ---
 
-## 📸 Screenshots
+## 💖 Shoutouts
 
-| Launcher                             | Dashboard                            | Auto Joiner                          |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![](https://i.imgur.com/6Z8gbLn.gif) | ![](https://i.imgur.com/Dfh3kBt.gif) | ![](https://i.imgur.com/BtDn5vw.gif) |
-
-> More coming soon... with sparkles ✨
-
----
-
-## ✨ Features
-
-* 🎯 **Auto Launch & Join Meetings**
-* 🎥 **Cam/Mic Off by Default**
-* 🖱️ **Auto Click Join Button**
-* 📸 **Takes Proof Screenshots**
-* 🏰 **Royal UI with Bunny Vibes**
-* 📅 **Meeting Scheduler**
-* 🔎 **Smart UI Element Detection**
-* 📁 **Proof Gallery**
-* 🗂️ **Session Logs**
-* 💬 **Optional Transcriptions**
-
----
-
-## 💑 Built With Love by
-
-| 👑 Prince Lailan                                           | ⚔️ Daltonne Tonny                                          |
-| ---------------------------------------------------------- | ---------------------------------------------------------- |
-| ![](https://avatars.githubusercontent.com/u/138154681?v=4) | ![](https://avatars.githubusercontent.com/u/164194779?v=4) |
-
----
-
-## 🌐 Connect with Us
-
-* 🐦 [@PrinceLailan](https://twitter.com/PrinceLailan)
-* 🌍 [GitHub](https://github.com/princelailan)
-* ☕ DM for collabs & fun 😎
-
----
-
-## ❤️ Support This Royalty
-
-If you love our app, consider helping the kingdom grow:
-
-```yaml
-github: [princelailan, daltonnetonny]
-ko_fi: princelailan
-buy_me_a_coffee: princelailan
+```
+Special thanks to:
+✨ Joseph Onyango ✨
+🤝 Daltone Tonny
+🎨 Daisy Mbeke
+👩‍🎨 Charity Kendi
+💥 Maxwell Kipkemoi
+👑 Prince Lailan
+🧠 Joan Omondi
+🧢 John Kiplangat
+🌸 Gloria Kendi
+🎯 Kevin Mwenda
+🌻 Milka Nyawira
+🦄 Abdi Hassan
 ```
 
 ---
 
-> "Built not just to work... but to SLAY."
+## ☕ Support
 
-<marquee behavior="alternate" direction="right" scrollamount="12">
-👑 Thank you for visiting the royal repo! 👑
-</marquee>
+> If you love this project:
+
+* Buy me a coffee: [BuyMeACoffee](https://buymeacoffee.com/princelailan)
+* Star this repo 🌟
 
 ---
+
+## 🛡️ License
+
+Licensed under the MIT License.
+
+---
+
+<div align="center">
+  <h2 style="font-family: cursive; text-shadow: 1px 1px #FFD700;">
+    🏰 Powered by the Kingdom of Code™ ⚔️📜
+  </h2>
+</div>
