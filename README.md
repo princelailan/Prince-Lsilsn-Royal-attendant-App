@@ -1,89 +1,79 @@
-# 👑 Prince Lailan's Royal Attendant App
+# 👑 Prince-Lsilsn Royal Attendant App 👑
 
-> A sassy, AI-powered meeting assistant fit for royalty 👑💅 — auto-joins Zoom/Google Meet, mutes cam + mic, takes proof screenshots, and more. Now with ✨dancing text✨ and royal sass.
-
----
-
-<div align="center">
-
-![Crown](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
-
-<h1><marquee scrollamount="12" direction="left" behavior="alternate">
-🚀✨ Welcome to the Royal Attendant App 👑✨🚀
-</marquee></h1>
-
-</div>
+> ✨ The sassiest Zoom & Meet auto-attendant with a kingdom twist! Built with 💖 by Prince Lailan & Daltone Tonny.
 
 ---
 
-## 👩‍💻 What’s Inside?
+### 🔥 Features that Slay
 
-> Built with 💖 by Joseph Onyango, aka Prince Lailan — powered by Node.js, Python, and Sass.
+🎀 Auto-join Zoom/Google Meet links with just the link or credentials
+💄 Mute mic & cam on entry — we don’t do unannounced drama
+👠 Detect & click 'Join' like a digital fairy godmother
+🐰 Screenshots for proof — receipts or it didn’t happen
+🪞 Cute girly GUI with bunnies & Easter eggs
+📅 Smart Scheduling & Reminders
+🎭 Transcription toggle + Calendar sync
 
-* ✅ Auto-join Zoom & Google Meet links
-* ✅ Auto click "Join" + mute mic/cam
-* ✅ Proof screenshots saved
-* ✅ Scheduled meeting joins ⏰
-* ✅ Desktop UI (.exe build)
-* ✅ Girlish UI with easter bunnies 🐰 and glam vibes
+---
 
-## 🎉 Demo Vibes
+### 💻 Tech Stack
+
+🟣 MERN Stack (MongoDB, Express, React, Node.js)
+🌈 TailwindCSS + Framer Motion = spicy frontend animations
+🧠 Puppeteer & Tesseract.js for smart UI bot moves
+
+---
+
+### 👯‍♀️ Team Royalty
+
+💅 **Prince Lailan (Joseph Onyango)** — Vibe architect, UI/UX witch, backend boss
+🎤 **Daltone Tonny** — Code whisperer, pixel sorcerer, co-king of sass
+
+---
+
+### 🎬 How It Works
 
 ```bash
-npm install
-npm start
-```
+# Clone the throne room
+$ git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
 
-> You can also run it as a Python script for quick automation — or launch the EXE with sass.
+# Summon the packages
+$ cd Prince-Lsilsn-Royal-attendant-App
+$ npm install
 
----
-
-## 🌈 Royal Tech Stack
-
-* 🎨 **Frontend**: HTML, CSS (Tailwind + Custom styles)
-* 🧠 **Backend**: Node.js + Express
-* 🐍 **Automation**: Python (pyautogui, opencv, schedule)
-* 💾 **Storage**: Local screenshots + logs
-* 💄 **Design**: Rainbows, glitch text, emojis, bunnies
-
----
-
-## ✨ Meet the Royal Squad
-
-<marquee direction="right" scrollamount="10">
-👑 Joseph Onyango (Prince Lailan) 🐰 | Daltonne Tonny 💻 | Shujaah Verse Team 🌸 | Princess BunnyBot 🤖
-</marquee>
-
----
-
-## 📸 Screenshots / Gallery
-
-![UI Screenshot](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
-
-> Want yours featured? Submit a pull request with your bunnyfied theme!
-
----
-
-## 📦 Clone the Kingdom
-
-```bash
-git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
+# Ascend the app
+$ npm start
 ```
 
 ---
 
-## 💖 Support Royal Devs
+### 🌈 Demo Time (Animated!)
 
-Sponsor Joseph: [Buy Me a Coffee ☕](https://www.buymeacoffee.com/princelailan)
+![magic](https://raw.githubusercontent.com/princelailan/Prince-Lsilsn-Royal-attendant-App/main/assets/join_demo.gif)
 
----
-
-## 📢 License
-
-This project is licensed under the Royal Bunny Kingdom License — use, remix, and glitter it up.
+> Replace with screen-recorded .gif of the app joining a meeting. Maybe throw in some sparkles ✨.
 
 ---
 
-<marquee direction="left" scrollamount="8">
-✨ You rule. Thanks for visiting the kingdom. ✨
-</marquee>
+### 💌 Sponsor Us, Maybe?
+
+If this project made you smile:
+
+* [Buy us a coffee](https://buymeacoffee.com/princelailan)
+* [Support on Ko-Fi](https://ko-fi.com/princelailan)
+
+---
+
+### 🧚 Easter Egg
+
+If you hover long enough on the bunny icon… something magical might happen 🐇✨
+
+---
+
+### 🧁 License
+
+MIT — You can fork it, remix it, vibe it. Just give the queens credit 💖
+
+---
+
+> 👑 "Long live the auto-attendant. Long live the kingdom." — A Princess probably
