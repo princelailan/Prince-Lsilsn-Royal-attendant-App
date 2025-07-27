@@ -13,7 +13,8 @@
 
 ## 🌐 Live Preview
 
-👉 [Launch the Royal Attendant](https://princelailan-attendant.netlify.app)
+👉 [Launch the Royal Attendant]
+[🌐 Live App](https://prince-lailan-royal-attendant-app.netlify.app))
 
 > *"No more boring joins — just click and let it slay."*
 
