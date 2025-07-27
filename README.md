@@ -1,87 +1,89 @@
-# 👑 Prince Lailan's Royal Attendant App 💅✨
+# 👑 Prince Lailan's Royal Attendant App
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&vCenter=true&width=435&lines=Auto+Join+Meetings+Like+Royalty;No+Cam+No+Mic+Just+Vibes;Built+with+✨by+Prince+Lailan+%26+Daltonne" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZebTmyvw85gnm/giphy.gif" width="400px" alt="Cyberpunk Royal Vibes"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Welcome+to+Royal+Mode&fontSize=40&animation=twinkling"/>
-</p>
-
-> <h3 align="center"><em>"Join meetings like royalty — no cam, no mic, no stress. Just vibes."</em></h3>
+> A sassy, AI-powered meeting assistant fit for royalty 👑💅 — auto-joins Zoom/Google Meet, mutes cam + mic, takes proof screenshots, and more. Now with ✨dancing text✨ and royal sass.
 
 ---
 
-## 🚀 Features That Slay:
+<div align="center">
 
-🎯 **Auto Join Meetings** — Google Meet, Zoom, whatever. You're there. Period.
+![Crown](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
 
-🎭 **Turns Off Cam & Mic Automatically** — Because surprise face? Never again.
+<h1><marquee scrollamount="12" direction="left" behavior="alternate">
+🚀✨ Welcome to the Royal Attendant App 👑✨🚀
+</marquee></h1>
 
-📸 **Snaps Proof Screenshots** — Receipts or it didn’t happen.
-
-⏰ **Scheduler with Royal Alarms** — Show up fashionably on time.
-
-🐰 **Bunny-Themed Girlish UI** — Pastel, sparkles, and slay-worthy.
-
-🪞 **Reflections of the Throne** — See who entered, left, or ghosted. 👀
+</div>
 
 ---
 
-## 💾 Technologies Behind the Magic:
+## 👩‍💻 What’s Inside?
 
-| Layer           | Tool                |
-| --------------- | ------------------- |
-| 💄 Frontend     | React + TailwindCSS |
-| 🔥 Backend      | Express + MongoDB   |
-| 🔐 Auth         | JWT / Firebase Auth |
-| 🖥️ Desktop App | Electron.js         |
+> Built with 💖 by Joseph Onyango, aka Prince Lailan — powered by Node.js, Python, and Sass.
 
----
+* ✅ Auto-join Zoom & Google Meet links
+* ✅ Auto click "Join" + mute mic/cam
+* ✅ Proof screenshots saved
+* ✅ Scheduled meeting joins ⏰
+* ✅ Desktop UI (.exe build)
+* ✅ Girlish UI with easter bunnies 🐰 and glam vibes
 
-## 👑 The Royal Dev Court:
-
-* 👸 **Prince Lailan (Joseph Onyango)** — UI Sorceress, Dev Queen, Meme Lord
-* 🤴 **Daltonne Tonny** — Backend Beast, Node Whisperer, Confetti Engineer
-
-<p align="center">
-  <img src="https://media.giphy.com/media/mGzG5DpmSFz16/giphy.gif" width="300px" alt="Sparkle Royalty"/>
-</p>
-
----
-
-## 📂 How to Install & Run
+## 🎉 Demo Vibes
 
 ```bash
-# Clone it like you mean it
-https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
-
-# Royal Dependencies
-cd frontend && npm install
-
-# Let the chariot roll
+npm install
 npm start
+```
+
+> You can also run it as a Python script for quick automation — or launch the EXE with sass.
+
+---
+
+## 🌈 Royal Tech Stack
+
+* 🎨 **Frontend**: HTML, CSS (Tailwind + Custom styles)
+* 🧠 **Backend**: Node.js + Express
+* 🐍 **Automation**: Python (pyautogui, opencv, schedule)
+* 💾 **Storage**: Local screenshots + logs
+* 💄 **Design**: Rainbows, glitch text, emojis, bunnies
+
+---
+
+## ✨ Meet the Royal Squad
+
+<marquee direction="right" scrollamount="10">
+👑 Joseph Onyango (Prince Lailan) 🐰 | Daltonne Tonny 💻 | Shujaah Verse Team 🌸 | Princess BunnyBot 🤖
+</marquee>
+
+---
+
+## 📸 Screenshots / Gallery
+
+![UI Screenshot](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+
+> Want yours featured? Submit a pull request with your bunnyfied theme!
+
+---
+
+## 📦 Clone the Kingdom
+
+```bash
+git clone https://github.com/princelailan/Prince-Lsilsn-Royal-attendant-App.git
 ```
 
 ---
 
-## 🌟 Wanna Support This Madness?
+## 💖 Support Royal Devs
 
-* [☕ Ko-fi](https://ko-fi.com/princelailan)
-* [💸 GitHub Sponsors](https://github.com/sponsors/princelailan)
+Sponsor Joseph: [Buy Me a Coffee ☕](https://www.buymeacoffee.com/princelailan)
 
 ---
 
-## 🐾 Easter Eggs?
+## 📢 License
 
-Yes. We hid them. No spoilers. 👀
+This project is licensed under the Royal Bunny Kingdom License — use, remix, and glitter it up.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f72585&height=200&section=footer&text=Built+With+Glitter+%26+Code+Only&fontSize=30&animation=twinkling"/>
-</p>
+---
 
-> *Made with glitter, code, caffeine & love. For royals, by royals.* ✨
+<marquee direction="left" scrollamount="8">
+✨ You rule. Thanks for visiting the kingdom. ✨
+</marquee>
