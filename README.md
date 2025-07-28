@@ -78,7 +78,7 @@ npm run package-win
 
 ## Pitch Deck
 
-🎥 *[Pitch deck slides coming soon. Wanna collab? Email us!](https://gamma.app/docs/Royal-Attendant-Bot--ftx9vzwgustviyr)*
+🎥 *[Pitch deck slides)https://gamma.app/docs/Royal-Attendant-Bot--ftx9vzwgustviyr)*
 📧 [princelailan.dev@gmail.com](mailto:princelailan.dev@gmail.com) | [daltonekingx@gmail.com](mailto:daltonekingx@gmail.com)
 
 ---
