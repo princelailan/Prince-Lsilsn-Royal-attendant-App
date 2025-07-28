@@ -76,9 +76,9 @@ npm run package-win
 
 ---
 
-## 📣 Placeholder for Pitch Deck
+## Pitch Deck
 
-🎥 *Pitch deck slides coming soon. Wanna collab? Email us!*
+🎥 *[Pitch deck slides coming soon. Wanna collab? Email us!](https://gamma.app/docs/Royal-Attendant-Bot--ftx9vzwgustviyr)*
 📧 [princelailan.dev@gmail.com](mailto:princelailan.dev@gmail.com) | [daltonekingx@gmail.com](mailto:daltonekingx@gmail.com)
 
 ---
